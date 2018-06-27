@@ -6,5 +6,9 @@ public class demo {
 		i=x+y;
 		return i;
 	}
+	public void ConCat(string a,string b)
+	{
+		return a+b:
+	}
 
 }
